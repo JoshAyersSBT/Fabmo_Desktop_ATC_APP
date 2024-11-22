@@ -1,0 +1,12 @@
+{
+    "name": "test_toolchanger",
+    "license": "MIT",
+    "id": "atc",
+    "main": "./Index.html",
+    "icon": "icon.png",
+    "icon_color": "#360d61",
+    "version": "0.9.0",
+    "author": "Joshua Ayers",
+    "description": "ATC complete refactor"
+  }
+  
